@@ -48,6 +48,7 @@
     overflow: hidden;
     box-shadow: 4px 4px 8px 0px rgba(49, 103, 63, 0.20);
     position: relative;
+    isolation: isolate;
 }
 .section-top__container .item img {
     width: 100%;
